@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/css/main.b8a85859.chunk.css"
   },
   {
-    "revision": "b6092aa1610c21520aff577adca85813",
+    "revision": "7d7c7203543c93132044e147ffa9fabd",
     "url": "/ozzi_website/index.html"
   }
 ];
