@@ -1,14 +1,14 @@
 {
-  "main.css": "/ozzi_website123/static/css/main.b8a85859.chunk.css",
-  "main.js": "/ozzi_website123/static/js/main.af33c45b.chunk.js",
-  "main.js.map": "/ozzi_website123/static/js/main.af33c45b.chunk.js.map",
-  "static/js/1.13eeb203.chunk.js": "/ozzi_website123/static/js/1.13eeb203.chunk.js",
-  "static/js/1.13eeb203.chunk.js.map": "/ozzi_website123/static/js/1.13eeb203.chunk.js.map",
-  "runtime~main.js": "/ozzi_website123/static/js/runtime~main.655410c0.js",
-  "runtime~main.js.map": "/ozzi_website123/static/js/runtime~main.655410c0.js.map",
-  "static/media/logo.svg": "/ozzi_website123/static/media/logo.5d5d9eef.svg",
-  "static/css/main.b8a85859.chunk.css.map": "/ozzi_website123/static/css/main.b8a85859.chunk.css.map",
-  "index.html": "/ozzi_website123/index.html",
-  "precache-manifest.fd5667feff500066e7ea3874bec80c8a.js": "/ozzi_website123/precache-manifest.fd5667feff500066e7ea3874bec80c8a.js",
-  "service-worker.js": "/ozzi_website123/service-worker.js"
+  "main.css": "/ozzi_website/static/css/main.b8a85859.chunk.css",
+  "main.js": "/ozzi_website/static/js/main.632e4f59.chunk.js",
+  "main.js.map": "/ozzi_website/static/js/main.632e4f59.chunk.js.map",
+  "static/js/1.13eeb203.chunk.js": "/ozzi_website/static/js/1.13eeb203.chunk.js",
+  "static/js/1.13eeb203.chunk.js.map": "/ozzi_website/static/js/1.13eeb203.chunk.js.map",
+  "runtime~main.js": "/ozzi_website/static/js/runtime~main.665e80ed.js",
+  "runtime~main.js.map": "/ozzi_website/static/js/runtime~main.665e80ed.js.map",
+  "static/media/logo.svg": "/ozzi_website/static/media/logo.5d5d9eef.svg",
+  "static/css/main.b8a85859.chunk.css.map": "/ozzi_website/static/css/main.b8a85859.chunk.css.map",
+  "index.html": "/ozzi_website/index.html",
+  "precache-manifest.0a8b99351ff78e13a90261934dc9382c.js": "/ozzi_website/precache-manifest.0a8b99351ff78e13a90261934dc9382c.js",
+  "service-worker.js": "/ozzi_website/service-worker.js"
 }
