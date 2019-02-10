@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "229ed79927c3992dc1d7a00343cf9952",
-    "url": "/ozzi_website/static/media/spring.229ed799.png"
+    "revision": "84d44aff3af7aab4ce4495c3de9c2e64",
+    "url": "/ozzi_website/static/media/react.84d44aff.png"
   },
   {
-    "revision": "d0955ad4ca586df77262",
-    "url": "/ozzi_website/static/css/main.5bb87fe0.chunk.css"
+    "revision": "15e5aba812ccad821133",
+    "url": "/ozzi_website/static/css/main.9e627f95.chunk.css"
   },
   {
-    "revision": "9ca19eec672fe6c4e4e4",
-    "url": "/ozzi_website/static/js/1.9ca19eec.chunk.js"
+    "revision": "86f99850d77b06fe2680",
+    "url": "/ozzi_website/static/js/1.86f99850.chunk.js"
   },
   {
     "revision": "665e80ed92ebf741ffc1",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/node.99fa4653.png"
   },
   {
-    "revision": "84d44aff3af7aab4ce4495c3de9c2e64",
-    "url": "/ozzi_website/static/media/react.84d44aff.png"
+    "revision": "15e5aba812ccad821133",
+    "url": "/ozzi_website/static/js/main.15e5aba8.chunk.js"
   },
   {
-    "revision": "d0955ad4ca586df77262",
-    "url": "/ozzi_website/static/js/main.d0955ad4.chunk.js"
+    "revision": "229ed79927c3992dc1d7a00343cf9952",
+    "url": "/ozzi_website/static/media/spring.229ed799.png"
   },
   {
     "revision": "09ed2051ed0b6e784bede6e70c64e9e7",
@@ -72,10 +72,6 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/house-market.e0b08ace.png"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/ozzi_website/static/media/logo.5d5d9eef.svg"
-  },
-  {
     "revision": "d64cf974d2be4b4bee3014ff894fda81",
     "url": "/ozzi_website/static/media/home-background.d64cf974.jpg"
   },
@@ -84,7 +80,7 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/background.5a3e1c2a.jpg"
   },
   {
-    "revision": "c068e7d6ffcfa5c231e611ae424d24e6",
+    "revision": "1285b9b0d389ce81bbac77c5a315adaa",
     "url": "/ozzi_website/index.html"
   }
 ];
