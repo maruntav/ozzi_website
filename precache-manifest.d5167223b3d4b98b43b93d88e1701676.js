@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/node.99fa4653.png"
   },
   {
-    "revision": "2e44beb3bc8c3498693b",
-    "url": "/ozzi_website/static/css/main.6af35e1c.chunk.css"
+    "revision": "b999fdbb88ca78b1a354",
+    "url": "/ozzi_website/static/css/main.94357497.chunk.css"
   },
   {
     "revision": "3604ce8cd4223cf1c28f",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/javascript.02287d17.png"
   },
   {
-    "revision": "2e44beb3bc8c3498693b",
-    "url": "/ozzi_website/static/js/main.2e44beb3.chunk.js"
+    "revision": "b999fdbb88ca78b1a354",
+    "url": "/ozzi_website/static/js/main.b999fdbb.chunk.js"
   },
   {
     "revision": "84d44aff3af7aab4ce4495c3de9c2e64",
@@ -68,7 +68,11 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/home-background.d64cf974.jpg"
   },
   {
-    "revision": "c23d6ed370de73b508cfadbcbcf092a1",
+    "revision": "5a3e1c2ae2b6e27d4c307a8cdaff51e0",
+    "url": "/ozzi_website/static/media/background.5a3e1c2a.jpg"
+  },
+  {
+    "revision": "223d36cc23e68af01ee868e063e60545",
     "url": "/ozzi_website/index.html"
   }
 ];
