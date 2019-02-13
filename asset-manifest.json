@@ -1,7 +1,7 @@
 {
   "main.css": "/ozzi_website/static/css/main.b7d3aaae.chunk.css",
-  "main.js": "/ozzi_website/static/js/main.f49f96c9.chunk.js",
-  "main.js.map": "/ozzi_website/static/js/main.f49f96c9.chunk.js.map",
+  "main.js": "/ozzi_website/static/js/main.089c70f3.chunk.js",
+  "main.js.map": "/ozzi_website/static/js/main.089c70f3.chunk.js.map",
   "static/js/1.975625fb.chunk.js": "/ozzi_website/static/js/1.975625fb.chunk.js",
   "static/js/1.975625fb.chunk.js.map": "/ozzi_website/static/js/1.975625fb.chunk.js.map",
   "runtime~main.js": "/ozzi_website/static/js/runtime~main.665e80ed.js",
@@ -26,6 +26,6 @@
   "static/media/Projects.css": "/ozzi_website/static/media/background.5a3e1c2a.jpg",
   "static/css/main.b7d3aaae.chunk.css.map": "/ozzi_website/static/css/main.b7d3aaae.chunk.css.map",
   "index.html": "/ozzi_website/index.html",
-  "precache-manifest.537259cc43b3e7c40c8670bd37920e49.js": "/ozzi_website/precache-manifest.537259cc43b3e7c40c8670bd37920e49.js",
+  "precache-manifest.8078a83ecb98c45f97a03a2207c81203.js": "/ozzi_website/precache-manifest.8078a83ecb98c45f97a03a2207c81203.js",
   "service-worker.js": "/ozzi_website/service-worker.js"
 }
