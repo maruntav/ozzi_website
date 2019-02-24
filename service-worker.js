@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ozzi_website/precache-manifest.a25c98ed5f9b2cf6c5cdd5dc850f1e74.js"
+  "/ozzi_website/precache-manifest.f96f55d0d56f839faee36f2481254724.js"
 );
 
 workbox.clientsClaim();
