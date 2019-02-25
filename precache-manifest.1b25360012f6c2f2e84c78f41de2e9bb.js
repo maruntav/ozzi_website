@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/background.5a3e1c2a.jpg"
   },
   {
-    "revision": "6fbac000f31191157b676fcded5b9415",
+    "revision": "c44e071218b71a68f9eee586d3d2737b",
     "url": "/ozzi_website/index.html"
   }
 ];
