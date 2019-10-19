@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "09ed2051ed0b6e784bede6e70c64e9e7",
-    "url": "/ozzi_website/static/media/mongo.09ed2051.png"
+    "revision": "229ed79927c3992dc1d7a00343cf9952",
+    "url": "/ozzi_website/static/media/spring.229ed799.png"
   },
   {
-    "revision": "1c095143e1dbe3ab0e4e",
-    "url": "/ozzi_website/static/css/main.44bda757.chunk.css"
+    "revision": "412b4263c373871a1992",
+    "url": "/ozzi_website/static/css/main.a869c507.chunk.css"
   },
   {
-    "revision": "975625fb60d521929383",
-    "url": "/ozzi_website/static/js/1.975625fb.chunk.js"
+    "revision": "8adff756b01664f236cc",
+    "url": "/ozzi_website/static/js/1.8adff756.chunk.js"
   },
   {
     "revision": "665e80ed92ebf741ffc1",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/react.84d44aff.png"
   },
   {
-    "revision": "229ed79927c3992dc1d7a00343cf9952",
-    "url": "/ozzi_website/static/media/spring.229ed799.png"
+    "revision": "412b4263c373871a1992",
+    "url": "/ozzi_website/static/js/main.412b4263.chunk.js"
   },
   {
-    "revision": "1c095143e1dbe3ab0e4e",
-    "url": "/ozzi_website/static/js/main.1c095143.chunk.js"
+    "revision": "09ed2051ed0b6e784bede6e70c64e9e7",
+    "url": "/ozzi_website/static/media/mongo.09ed2051.png"
   },
   {
     "revision": "995dba0baad861b51315365b0c2ad547",
@@ -68,18 +68,6 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/kodflix.7bc5041b.png"
   },
   {
-    "revision": "42bd1f514b8a7f66e202ef8ab1358d5b",
-    "url": "/ozzi_website/static/media/house-market.42bd1f51.png"
-  },
-  {
-    "revision": "99a197490f060466ba58f00396cc2682",
-    "url": "/ozzi_website/static/media/restaurant.99a19749.png"
-  },
-  {
-    "revision": "4bdbcad999eaa58307759a71001d8dc6",
-    "url": "/ozzi_website/static/media/reduce-presentation.4bdbcad9.png"
-  },
-  {
     "revision": "d64cf974d2be4b4bee3014ff894fda81",
     "url": "/ozzi_website/static/media/home-background.d64cf974.jpg"
   },
@@ -88,7 +76,7 @@ self.__precacheManifest = [
     "url": "/ozzi_website/static/media/background.5a3e1c2a.jpg"
   },
   {
-    "revision": "486b1ba5d5e556dcee6fd1b784caa666",
+    "revision": "eb6a235e7b801f035cd671c725322259",
     "url": "/ozzi_website/index.html"
   }
 ];
